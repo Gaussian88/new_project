@@ -1,0 +1,15 @@
+00:00 인트로
+01:10 환경 세팅
+02:50 시네머신브레인과 가상카메라
+03:44 FreeLook Camera
+04:42 BlendList Camera
+06:23 State_driven Camera
+08:20 ClearShot Camera
+09:34 Dolly Camera with Track
+10:33 Dolly Track with Cart
+11:54 Target Group Camera
+12:55 Mixing Camera
+13:57 2D Camera
+14:38 아웃트로
+
+https://www.youtube.com/watch?v=6uWa3JnL2hk
